@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+
+    <!-- About -->
+    <string name="about_btn_faq">FAQ</string>
+    <string name="about_btn_feedback">Send Feedback</string>
+    <string name="about_btn_contact">Contact</string>
+    <string name="about_btn_license">Licensing Information</string>
+    <string name="owner_name">Manjurul Hoque Rumi</string>
+    <string name="made_by">Made by</string>
+</resources>
