@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity
         cal.setTimeInMillis(difference);
 
         textViewNextBirthdayMonths.setText(String.valueOf(cal.get(Calendar.MONTH)));
-        textViewNextBirthdayDays.setText(String.valueOf(cal.get(Calendar.DAY_OF_MONTH) - 2));
+        textViewNextBirthdayDays.setText(String.valueOf(cal.get(Calendar.DAY_OF_MONTH)));
     }
 
     private void calculateAge() {
